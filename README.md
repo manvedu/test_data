@@ -17,7 +17,7 @@ It works with almost all markdown flavours (the below blank line matters).
 ---
 
 # Installation
-- Clone project from **git@github.com:manvedu/**
+- Clone project from **git@github.com:manvedu/test_data.git**
 - Install bundler `gem install bundler`
 - Install gems ` bundle`
 

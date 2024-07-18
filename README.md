@@ -9,13 +9,6 @@ Some improvements need to be considered and thought about. For instance, what ha
 We can add some refactor to have more specialized classes.
 This service returns all possible values that match the condition.
 
----
-**NOTE**
-
-It works with almost all markdown flavours (the below blank line matters).
-
----
-
 # Installation
 - Clone project from **git@github.com:manvedu/test_data.git**
 - Install bundler `gem install bundler`

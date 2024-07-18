@@ -123,4 +123,5 @@ bundle exec rspec spec/
 **NOTE**
 
 There is a script file that was the first attempt to achieve this requirement, and it is included in this repository to demonstrate the process.
+
 ---
